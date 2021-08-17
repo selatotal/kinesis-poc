@@ -1,0 +1,13 @@
+package br.com.selat.kinesispoc;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class KinesisPocApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(KinesisPocApplication.class, args);
+	}
+
+}
