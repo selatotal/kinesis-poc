@@ -2,7 +2,6 @@ package br.com.selat.kinesispoc.service;
 
 import br.com.selat.kinesispoc.contract.ServiceValidationException;
 import br.com.selat.kinesispoc.contract.User;
-import br.com.selat.kinesispoc.controller.UserRestController;
 import com.google.gson.Gson;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
